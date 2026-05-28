@@ -1,0 +1,6 @@
+{
+  "id": "pathling",
+  "displayName": "Pathling",
+  "description": "A small eye-spider that follows paths, watches the watcher, and makes loss of control look designed.",
+  "spritesheetPath": "spritesheet.png"
+}
