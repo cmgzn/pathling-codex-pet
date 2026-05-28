@@ -2,6 +2,16 @@
 
 Pathling is a custom Codex pet: a small open-eye spider with a red thread mark.
 
+![Pathling contact sheet](qa/contact-sheet.png)
+
+## Preview
+
+| Idle | Running | Waiting | Review |
+| --- | --- | --- | --- |
+| ![Pathling idle](qa/previews/idle.gif) | ![Pathling running](qa/previews/running.gif) | ![Pathling waiting](qa/previews/waiting.gif) | ![Pathling review](qa/previews/review.gif) |
+
+Pathling keeps one open eye, eight spider legs, and a tiny red thread tied to the lower leg. The "blink" is a pupil-and-iris light response, not an eyelid.
+
 ## Install On macOS
 
 Clone or download this repository, then run:
